@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/After-Cry-Game.dir/src/Source.cpp.o" "CMakeFiles/After-Cry-Game.dir/src/game.cpp.o" "CMakeFiles/After-Cry-Game.dir/src/utils.cpp.o" -o After-Cry-Game 

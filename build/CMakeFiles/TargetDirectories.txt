@@ -1,0 +1,3 @@
+/home/mdev/dev/ps/after-cry-game/build/CMakeFiles/After-Cry-Game.dir
+/home/mdev/dev/ps/after-cry-game/build/CMakeFiles/edit_cache.dir
+/home/mdev/dev/ps/after-cry-game/build/CMakeFiles/rebuild_cache.dir
